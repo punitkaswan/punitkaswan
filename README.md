@@ -1,4 +1,9 @@
+<h1 align="center">Hi 👋, I'm Punit Kaswan</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=punitkaswan&label=Profile%20views&color=0e75b6&style=flat" alt="punitkaswan" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=punitkaswan" alt="punitkaswan" /></a> </p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/punitkaswan7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/punitkaswan7) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/punitkaswan7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pk@pk7.in) 
